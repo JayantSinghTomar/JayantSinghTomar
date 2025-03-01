@@ -1,6 +1,3 @@
-       👋 Welcome to my GitHub profile!
-
-
 <h1 align="center"> Hi 👋, I'm Jayant Singh Tomer </h1>
 
 <h3 align="center">A Passionate Data Analyst & Developer</h3>
