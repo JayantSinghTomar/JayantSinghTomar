@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Data Analytics**
 - ✅ Completed **Bachelor of Technology (EC)**
 - ✍ Achievements: **State Level Kho-Kho**
-- 🔗 Know more about me on **[LinkedIn](https://linkedin.com/in/your-profile)**
+- 🔗 Know more about me on **[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jayant-singh-tomer-416833177))**
 - 📧 How to reach me: **[jayanttomar004@gmail.com](mailto:jayanttomar004@gmail.com)**
 
 ---
